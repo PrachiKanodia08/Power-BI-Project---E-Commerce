@@ -13,6 +13,3 @@ DASHBOARDS -
 1. Product Analysis
 2. Sales & Revenue Analysis
 3. Geographic Analysis
-
-
-**NOTE:** *Updating project on GitHub is in progress*
